@@ -1,15 +1,115 @@
-# HelloWorld!
-## 自己紹介(About me)
+## About Me
 
-### 所属
-  福井工業大学大学院 工学研究科 応用理工学専攻 宇宙情報科学コース 修士1年
+```txt
+Affiliation : Fukui University of Technology MS Course M1
+Location    : Fukui,Japan
+Focus       : Web Development / AI / Machine Learning / Server / Communication / Astronomy
+````
 
-### 使用環境
-- MacBookPro (2020,M1)
-- VisualStudio Code
+* 現在、ポートフォリオサイトを作成中
+* 衛星地上局で色々やっています。
 
-### 使用言語
-- C/C++
-- Python
-- HTML/CSS
+---
+
+## Interests
+
+<div align="center">
+
+| Area                     | Keywords                            |
+| ------------------------ | ----------------------------------- |
+| Web Development          | Frontend / Backend / UI / Portfolio |
+| AI & Machine Learning    | Deep Learning / Data / Automation   |
+| Server & Infrastructure  | Linux / Network / Operation         |
+| Satellite Ground Station | Radio / Communication / Observation |
+| Astronomy                | Space / Stars / Observation         |
+
+</div>
+
+---
+
+## Tech Stack
+
+<!-- 使用言語・フレームワークを書きたい場合は、以下に追加してください -->
+
+<div align="center">
+
+### Languages / Tools
+
+<!-- 必要なものだけ残してください -->
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,nodejs,linux,git,github,vscode,docker" />
+
+</div>
+
+---
+
+## Development Environment
+
+<!-- PCスペック・周辺機器などを書く場所 -->
+
+| Category      | Details               |
+| ------------- | --------------------- |
+| Main PC       | YOUR_PC_NAME_OR_MODEL |
+| OS            | YOUR_OS               |
+| CPU           | YOUR_CPU              |
+| GPU           | YOUR_GPU              |
+| Memory        | YOUR_MEMORY           |
+| Storage       | YOUR_STORAGE          |
+| Editor        | YOUR_EDITOR           |
+| Terminal      | YOUR_TERMINAL         |
+| Keyboard      | YOUR_KEYBOARD         |
+| Mouse         | YOUR_MOUSE            |
+| Monitor       | YOUR_MONITOR          |
+| Other Devices | YOUR_OTHER_DEVICES    |
+
+---
+
+## Projects
+
+現在、ポートフォリオサイトを作成予定です。
+
+<!-- プロジェクトができたら以下の形式で追加 -->
+
+| Project        | Description      | Tech                    |
+| -------------- | ---------------- | ----------------------- |
+| Portfolio Site | Coming soon...   | HTML / CSS / JavaScript |
+| Project Name   | Description here | Tech stack here         |
+
+---
+
+## Activity Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME\&theme=minimal\&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
+
+</div>
+
+---
+
+## Links
+
+<div align="center">
+
+<!-- X -->
+
+<a href="https://x.com/ryuu_space1103">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<!-- Instagram -->
+
+<a href="https://www.instagram.com/ryuu_11_03/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<!-- note -->
+
+<a href="https://note.com/ryuu_star">
+  <img src="https://img.shields.io/badge/note-41C9B4?style=for-the-badge&logo=note&logoColor=white" />
+</a>
+
+</div>
+
+---
 
