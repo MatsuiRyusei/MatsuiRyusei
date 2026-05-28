@@ -47,22 +47,7 @@ Focus       : Web Development / AI / Machine Learning / Server / Communication /
 
 <!-- PCスペック・周辺機器などを書く場所 -->
 
-| Category      | Details               |
-| ------------- | --------------------- |
-| Main PC       | YOUR_PC_NAME_OR_MODEL |
-| OS            | YOUR_OS               |
-| CPU           | YOUR_CPU              |
-| GPU           | YOUR_GPU              |
-| Memory        | YOUR_MEMORY           |
-| Storage       | YOUR_STORAGE          |
-| Editor        | YOUR_EDITOR           |
-| Terminal      | YOUR_TERMINAL         |
-| Keyboard      | YOUR_KEYBOARD         |
-| Mouse         | YOUR_MOUSE            |
-| Monitor       | YOUR_MONITOR          |
-| Other Devices | YOUR_OTHER_DEVICES    |
-
----
+MacBook Pro(2020,M1)
 
 ## Projects
 
