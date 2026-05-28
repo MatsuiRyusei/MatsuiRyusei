@@ -37,7 +37,7 @@ Focus       : Web Development / AI / Machine Learning / Server / Communication /
 
 <!-- 必要なものだけ残してください -->
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,nodejs,linux,git,github,vscode,docker" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,linux,git,github,vscode,docker" />
 
 </div>
 
